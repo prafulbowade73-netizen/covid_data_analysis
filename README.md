@@ -1,4 +1,4 @@
-# 🦠 COVID-19 Data Analysis using Python
+# 🦠 COVID-19 Data Analysis 
 
 ## 📌 Project Overview
 This project analyzes COVID-19 data using Python, Pandas, and Matplotlib. It demonstrates data cleaning, exploratory data analysis (EDA), and data visualization to identify trends in confirmed, recovered, active, and death cases.
