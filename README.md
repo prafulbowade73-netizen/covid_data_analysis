@@ -34,25 +34,7 @@ COVID-19-Data-Analysis/
 - 🥧 Recovered vs Deaths vs Active Pie Chart
 - 🔵 Confirmed vs Deaths Scatter Plot
 
-## 📦 Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/COVID-19-Data-Analysis.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the project:
-
-```bash
-python covid_analysis.py
-```
 
 ## 📁 Dataset
 The project uses a CSV dataset containing:
